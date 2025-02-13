@@ -1,0 +1,68 @@
+body 
+{
+    
+    background-color: rgb(107, 87, 99);
+    
+}
+a{
+
+    text-decoration: antiquewhite;
+color: black;
+padding-left: 20px;
+}    
+header{
+
+    display: flex;
+height: 70px;
+background-color: #369eac;
+
+
+
+
+}
+  
+.logo{
+height: 50px;
+margin-right: 20px;
+    
+}
+
+nav a {
+
+    font-weight: 600px;
+padding-left: 20px;
+margin: 38px;
+}
+
+
+
+nav a :hover{
+
+    color: aqua;
+}
+
+
+
+
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

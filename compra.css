@@ -1,0 +1,24 @@
+.boton a { 
+padding-left: 60%;
+padding-top: 19px;
+
+
+}
+.boton a {
+text-decoration: none;
+color: black;
+margin: 200px;
+
+
+
+}
+button{
+
+    font-size: 19px;
+    background-color: aqua;
+    border-radius: 10px;
+margin-left: 500px;
+position: absolute;
+
+
+}
